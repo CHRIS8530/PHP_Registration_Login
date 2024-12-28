@@ -1,0 +1,33 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm
+/.idea/
+
+# Laravel
+/.env
+/public/storage
+/storage/*.key
+/vendor
+/node_modules
+
+# Symfony
+/app/config/parameters.yml
+/app/config/parameters.yml.dist
+/var/
+/bin/
+/vendor/
+/composer.phar
+
+# Cache and Logs
+*.log
+*.cache
+*.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.env
